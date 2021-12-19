@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[vscode]  
+[vscode]
 <br />
+
 ---
 
 [website]: http://132.145.80.83/website/index.html  
