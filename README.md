@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 <br />
 ---
 
-![al-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=al-hubID&show_icons=true&theme=radical)
-
----
-
 [website]: http://132.145.80.83/website/index.html  
 [vscode]: https://vscode.dev/  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=al-hubID&show_icons=true&theme=radical)
