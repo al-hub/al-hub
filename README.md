@@ -2,6 +2,7 @@
 [website]  
 
 <!--
+reference from https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/README.md
 **al-hub/al-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,15 +19,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 -->
 
-<!-- reference from https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/README.md -->
-
-## I'm a Husband, Father, SW Engineer and Vimmer 😄
+## I'm a Husband, Father, 💻 Engineer and Vimmer 😄
 
 - 🥅 2022 Goals: Contribute to Open Source projects and Be expert programming.
-- 🔭 I’m currently working on MX(mobile experience) Business as SW Engineer.
-- 🌱 I like to learn shell-script, python, algorithms and finance, 💲
+- 🔭 I’m currently working on MX(mobile experience) Business as 💻 Engineer.
+- 🌱 I like to learn 🐚script, python, algorithms and finance💵, 
 - 🤔 I want to make good use of programs and AI in real life.
-- ⚡ Fun fact: watching movie, listen music, gaming(including retro), shopping, traveling with my family!
+- ⚡ Fun fact: watching 🎥, listen 🎵, 🎮(including retro), 🛍️, ✈️ with my 👪!
 
 ### Connect with me:
 
@@ -37,10 +36,10 @@ Here are some ideas to get you started:
 
 [vscode]  
 <br />
-<br />
 ---
 
 [website]: http://132.145.80.83/website/index.html  
 [vscode]: https://vscode.dev/  
 
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=al-hub&show_icons=true&theme=radical)
