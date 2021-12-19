@@ -1,4 +1,4 @@
-### Hi there, I'm core.choi 👋
+### Hi there, I'm CHOI 👋
 [website]  
 
 <!--
