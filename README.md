@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 
 [website]: http://132.145.80.83/website/index.html  
 [vscode]: https://vscode.dev/  
+  
+### And I like this 
+[ܘܐܚܕ ܒܐܝܕܗ ܕܛܠܝܬܐ ܘܐܡܪ ܠܗ ܛܠܝܬܐ ܩܘܡܝ](https://www.quora.com/How-do-you-write-Talitha-Cumi-in-Biblical-Aramaic-Syriac-script-Mark-5-41-the-version-that-states-little-girl-lamb-arise-and-not-the-longer-version)  
+
+
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=al-hub&show_icons=true&theme=radical)
