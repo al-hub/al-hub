@@ -37,6 +37,17 @@ Here are some ideas to get you started:
 [vscode]
 <br />
 
+### snippet:
+stl list for auto &item
+hello language  
+
+shell  
+grep cut sort uniq  
+diff folder1 folder2  
+while [ 1 ]; do ; done;  
+hub pipe  
+
+
 ܘܐܚܕ ܒܐܝܕܗ ܕܛܠܝܬܐ ܘܐܡܪ ܠܗ ܛܠܝܬܐ ܩܘܡܝ
 
 [website]: http://132.145.80.83/website/index.html  
