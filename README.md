@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br />
 
 ### snippet:
-stl list for auto &item
+stl list for auto &item  
 hello language  
 
 shell  
