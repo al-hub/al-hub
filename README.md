@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## I'm a Husband, Father, 💻 Engineer and Vimmer 😄
 
-- 🥅 2022 Goals: Contribute to Open Source projects and Be expert programming.
+- 🥅 2023 Goals: Contribute to Open Source projects and Be expert programming.
 - 🔭 I’m currently working on MX(mobile experience) Business as 💻 Engineer.
 - 🌱 I like to learn 🐚script, python, algorithms and finance💵, 
 - 🤔 I want to make good use of programs and AI in real life.
