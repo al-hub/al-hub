@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## I'm a Husband, Father, 💻 Engineer and Vimmer 😄
 
-- 🥅 2023 Goals: Contribute to Open Source projects and Be expert programming.
-- 🔭 I’m currently working on MX(mobile experience) Business as 💻 Engineer.
+- 🥅 2026 Goals: AI Learning , utilize Python, Enabling Agent
+- 🔭 I’m currently working on MX(mobile experience) Business as 💻 .
 - 🌱 I like to learn 🐚script, python, algorithms and finance💵, 
 - 🤔 I want to make good use of programs and AI in real life.
 - ⚡ Fun fact: watching 📺, listen 🎵, 🎮(including retro), 🛍️, ✈️ with my 👪!
