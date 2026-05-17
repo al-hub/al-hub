@@ -1,4 +1,4 @@
-### Hi there, I'm CHOI 🇰🇷 👋
+### Hi 👋 there, I'm CHOI 🇰🇷 
 [website]  
 
 <!--
