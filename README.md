@@ -53,23 +53,6 @@ reference from https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/RE
 
 [vscode]
 <br />
-
-### snippet:
-stl list for auto &item  
-hello language  
-
-shell  
-grep cut sort uniq  
-diff folder1 folder2  
-while [ 1 ]; do ; done;  
-hub pipe  
-
-
-ܘܐܚܕ ܒܐܝܕܗ ܕܛܠܝܬܐ ܘܐܡܪ ܠܗ ܛܠܝܬܐ ܩܘܡܝ
-
+ܕ ܒܐܝܕܗ ܕܛܠܝܬܐ ܘܐܡܪ ܠܗ ܛܠܝܬܐ ܩܘܡܝ
 [website]: http://132.145.80.83/website/index.html  
 [vscode]: https://vscode.dev/  
-
-
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=al-hub&show_icons=true&theme=radical)
