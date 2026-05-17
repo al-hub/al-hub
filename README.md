@@ -51,9 +51,15 @@ reference from https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/RE
 
 ### Languages and Tools:
 
+
 [vscode]
 <br />
-ܕ ܒܐܝܕܗ ܕܛܠܝܬܐ ܘܐܡܪ ܠܗ ܛܠܝܬܐ ܩܘܡܝ
----
+
+
+
+ܘܐܚܕ ܒܐܝܕܗ ܕܛܠܝܬܐ ܘܐܡܪ ܠܗ ܛܠܝܬܐ ܩܘܡܝ
+
 [website]: http://132.145.80.83/website/index.html  
 [vscode]: https://vscode.dev/  
+
+---
